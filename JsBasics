@@ -1,1 +1,5 @@
-let a
+// 1.Write a function that counts the no of characters in a string.
+
+let charCount = (string) => {return string.length}
+console.log(charCount("gsnop"));
+
