@@ -29,12 +29,40 @@
     }
     console.log(toFeet(120));
 
-//6.function to convert degrees to fahrenheit
+// 6.function to convert degrees to fahrenheit
 
     function d2F(deg){
         return (deg*1.8)+32;
     }
     console.log(d2F(40));
 
+// 7.function to convert lbs to kg
 
+    let toKilos = (lbs) => lbs / 2.20462;
+    let toPounds = (kg) => kg * 2.20462;
+    console.log(toKilos(100));
+    console.log(toPounds(60));
+
+// 10.function that returns longest string
+
+    function findLongest(str1,str2){
+        if(str1.length > str2.length)
+            return str1
+        else
+            return str2
+    }
+    console.log(findLongest("gsn","gsnop"));
+
+// 11.function to find shortest string in array
+
+    var x = ["gsn","s","gsnop","swaminathan"];
+    function findShortest(arr){
+        var word = arr[0];
+        for(let i=0;i<arr.length;i++){
+            if(arr[i].length < word.length){
+                word = arr[i];
+            }
+        }
+        return word;
+    }
 
