@@ -1,5 +1,40 @@
-// 1.Write a function that counts the no of characters in a string.
+// 1. Count no of chars in a string.
 
-let charCount = (string) => {return string.length}
-console.log(charCount("gsnop"));
+    let charCount = (string) => {return string.length}
+    console.log(charCount("gsnop"));
+
+// 2. Find largest of Two Numbers
+
+    let findLargeNum = (a,b) =>a>b?a:b;
+    console.log(findLargeNum(10,20));
+
+// 3.fn that returns boolean if a number is between 5000-9999
+
+    let checkNumber = (num) =>{
+        if(num > 5000 && num <= 9999)
+            return true;
+        else
+            return false;
+    }
+
+//4.funtcion that returns cube root of the number
+
+    let findCubeRoot = (num) => num**(1/3)
+    console.log(findCubeRoot(27));
+
+//5.function that converts inches into feet
+
+    function toFeet(inches){
+        return inches/12
+    }
+    console.log(toFeet(120));
+
+//6.function to convert degrees to fahrenheit
+
+    function d2F(deg){
+        return (deg*1.8)+32;
+    }
+    console.log(d2F(40));
+
+
 
