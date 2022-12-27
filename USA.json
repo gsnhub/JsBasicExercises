@@ -1,0 +1,112 @@
+
+{
+    "California": {
+      "state": "California",
+      "capital": "Sacramento",
+      "largestCity": "Los Angeles",
+      "population": "40 million",
+      "totalArea":  "423967 km^2",
+      "landArea": "403466 km^2",
+      "waterArea": "20501 km^2",
+      "numberofReps.": 53
+    },
+  
+      "Florida": {
+      "state": "Florida",
+      "capital": "Tallahassee",
+      "largestCity": "Jacksonville",
+      "population": "4 million",
+      "totalArea":  "65378 km^2",
+      "land Area": "53525 km^2",
+      "Water Area": "10540 km^2",
+      "numberofReps.": 27
+    },
+  
+      "Georgia": {
+      "state": "Georgia",
+      "capital": "Atlanta",
+      "largestCity": "Atlanta",
+      "population": "3 million",
+      "total Area":  "13378 km^2",
+      "land Area": "31525 km^2",
+      "water Area": "8540 km^2",
+      "numberofReps.": 14
+    },
+      "Michigan": {
+      "state": "Michigan",
+      "capital": "Lansen",
+      "largestcity": "Detroit",
+      "population": "3 million",
+      "totalarea":  "15378 km^2",
+      "landarea": "12525 km^2",
+      "waterarea": "9540 km^2",
+      "numberofReps.": 13
+    },
+     "Newyork":
+    {
+      "state": "New York",
+      "capital": "Albany",
+      "largestcity": "New York",
+      "population": "6 million",
+      "totalarea":  "18378 km^2",
+      "landarea": "87566 km^2",
+      "waterarea": "9000 km^2",
+      "numberofReps.": 27
+    },
+    "North Carolina":
+    {
+      "state": "North Carolina",
+      "capital": "Raleigh",
+      "largestcity": "Charlotte",
+      "population": "5 million",
+      "totalarea":  "8378 km^2",
+      "landarea": "5566 km^2",
+      "waterarea": "16000 km^2",
+      "numberofReps.": 12
+    },
+     "Pennsylvannia":
+    {
+      "state": "Pennsylvannia",
+      "capital": "Harrisburg",
+      "largestcity": "Philadelphia",
+      "population": "8 million",
+      "totalarea":  "16378 km^2",
+      "landarea": "67566 km^2",
+      "waterarea": "18000 km^2",
+      "numberofReps.": 15
+    },
+    "Texas":
+    {
+      "state": "Texas",
+      "capital": "Austin",
+      "largestcity": "Houston",
+      "population": "7 million",
+      "totalarea":  "16378 km^2",
+      "landarea": "65786 km^2",
+      "waterarea": "8000 km^2",
+      "numberofReps.": 17
+    },
+    "Washington":
+    {
+      "state": "Washington",
+      "capital": "Olympia",
+      "largestcity": "Seattle",
+      "population": "32 million",
+      "totalarea":  "156378 km^2",
+      "landarea": "89566 km^2",
+      "waterarea": "19000 km^2",
+      "numberofReps.": 44
+    },
+    "South Carollina":
+    {
+      "state": "South Carolina",
+      "capital": "Columbia",
+      "largestcity": "Charleston",
+      "population": "8 million",
+      "totalarea":  "21078 km^2",
+      "landarea": "18966 km^2",
+      "waterarea": "12000 km^2",
+      "numberofReps.": 20
+    }
+  }  
+    

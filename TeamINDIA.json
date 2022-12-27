@@ -1,0 +1,87 @@
+"Team India"
+{
+    "onedaymatches:"[
+        "played": 1020,
+        "won": 523,
+        "lost": 436,
+        "championship": "Winners in 1983 & 2011"
+    ]
+},
+{
+    "twenty-twentymatches:"[
+        "played": 193,
+        "won": 123,
+        "lost": 61,
+        "championship": "Winners in 2007"
+    ]
+},
+{
+    "tests:"[
+        "played": 563,
+        "won": 168,
+        "lost": 174,
+        "championship": "Runners in 2021"
+    ]
+},
+{
+    "Players:"[
+        "name": "Rohit Sharma",
+        "age": 35,
+        "position": "Captain",
+        "format": "Tests,ODIs&T20s"
+    ],
+    [
+        "name": "KL Rahul",
+        "age": 32,
+        "position": "Vice-Captain",
+        "format": "Tests,ODIs&T20s"
+    ],
+    [
+        "name": "Virat Kohli",
+        "age": 34,
+        "position": "Batsman",
+        "format": "Tests,ODIs&T20s"
+    ],
+    [
+        "name": "Rishab Pant",
+        "age": 26,
+        "position": "Wicket-keeper",
+        "format": "Tests,ODIs&T20s"
+    ],
+    [
+        "name": "R Ashwin",
+        "age": 36,
+        "position": "Spin-Bowler",
+        "format": "Tests,ODIs&T20s"
+    ],
+    [
+        "name": "M Siraj",
+        "age": 27,
+        "position": "Fast-Bowler",
+        "format": "Tests,ODIs&T20s"
+    ],
+    [
+        "name": "Shreyas Iyer",
+        "age": 30,
+        "position": "Batsman",
+        "format": "Tests,ODIs&T20s"
+    ],
+    [
+        "name": "Shubman Gill",
+        "age": 25,
+        "position": "Opening Batsman",
+        "format": "Tests"
+    ],
+    [
+        "name": "Jasprit Bumrah",
+        "age": 30,
+        "position": "Fast Bowler",
+        "format": "Tests,ODIs&T20s"
+    ],
+    [
+        "name": "Kuldeep Yadav",
+        "age": 33,
+        "position": "Spin Bowler",
+        "format": "Tests,ODIs"
+    ]
+}
