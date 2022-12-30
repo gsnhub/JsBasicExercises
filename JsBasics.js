@@ -55,7 +55,7 @@
 
 // 11.function to find shortest string in array
 
-    var x = ["gsn","s","gsnop","swaminathan"];
+    
     function findShortest(arr){
         var word = arr[0];
         for(let i=0;i<arr.length;i++){
@@ -65,4 +65,6 @@
         }
         return word;
     }
+    var x = ["gsn","s","gsnop","swaminathan"];
+    console.log(findShortest(x));
 
